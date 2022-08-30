@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Playfair+Display:wght@400;700&display=swap');
+
+/* font-family: 'Playfair Display', serif;
+font-family: 'PT Sans', sans-serif; */
+
+:root {
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+
+    --color-bg-light: #FFFFFF;
+    --color-bg-dark: #000000;
+
+    --font-main-r: 400 large 'PT Sans' sans-serif;
+    --font-secondary-r: 400 large 'Playfair Display', serif;
+    --font-secondary-b: 700 large 'Playfair Display', serif;
+
+
+    --animation-speed: .3s;
+    --animation-func: ease;
+    --animation: var(--animation-speed) var(--animation-func);
+
+}
